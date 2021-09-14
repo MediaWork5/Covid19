@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+}
+.formControl {
+    width: 90%;
+    margin-bottom: 30px !important;
+}
+
+.select {
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 770px) {
+    .formControl {
+        width: 75%;
+        margin-bottom: 20px !important;
+    }
+
+    .select {
+        font-size: 12px;
+    }
+}
