@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MediaWork5/Covid19.git/static/css/main.757971ba.chunk.css",
-    "main.js": "/MediaWork5/Covid19.git/static/js/main.eea0ec99.chunk.js",
-    "main.js.map": "/MediaWork5/Covid19.git/static/js/main.eea0ec99.chunk.js.map",
+    "main.css": "/MediaWork5/Covid19.git/static/css/main.7e6484f2.chunk.css",
+    "main.js": "/MediaWork5/Covid19.git/static/js/main.ad73748e.chunk.js",
+    "main.js.map": "/MediaWork5/Covid19.git/static/js/main.ad73748e.chunk.js.map",
     "runtime-main.js": "/MediaWork5/Covid19.git/static/js/runtime-main.5606b76e.js",
     "runtime-main.js.map": "/MediaWork5/Covid19.git/static/js/runtime-main.5606b76e.js.map",
-    "static/js/2.7666bb62.chunk.js": "/MediaWork5/Covid19.git/static/js/2.7666bb62.chunk.js",
-    "static/js/2.7666bb62.chunk.js.map": "/MediaWork5/Covid19.git/static/js/2.7666bb62.chunk.js.map",
+    "static/js/2.68a5ad0b.chunk.js": "/MediaWork5/Covid19.git/static/js/2.68a5ad0b.chunk.js",
+    "static/js/2.68a5ad0b.chunk.js.map": "/MediaWork5/Covid19.git/static/js/2.68a5ad0b.chunk.js.map",
     "index.html": "/MediaWork5/Covid19.git/index.html",
-    "static/css/main.757971ba.chunk.css.map": "/MediaWork5/Covid19.git/static/css/main.757971ba.chunk.css.map",
-    "static/js/2.7666bb62.chunk.js.LICENSE.txt": "/MediaWork5/Covid19.git/static/js/2.7666bb62.chunk.js.LICENSE.txt",
+    "static/css/main.7e6484f2.chunk.css.map": "/MediaWork5/Covid19.git/static/css/main.7e6484f2.chunk.css.map",
+    "static/js/2.68a5ad0b.chunk.js.LICENSE.txt": "/MediaWork5/Covid19.git/static/js/2.68a5ad0b.chunk.js.LICENSE.txt",
     "static/media/covide19.9e5d4fc7.png": "/MediaWork5/Covid19.git/static/media/covide19.9e5d4fc7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5606b76e.js",
-    "static/js/2.7666bb62.chunk.js",
-    "static/css/main.757971ba.chunk.css",
-    "static/js/main.eea0ec99.chunk.js"
+    "static/js/2.68a5ad0b.chunk.js",
+    "static/css/main.7e6484f2.chunk.css",
+    "static/js/main.ad73748e.chunk.js"
   ]
 }
